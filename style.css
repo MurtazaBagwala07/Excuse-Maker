@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 10rem;
+    height: 5rem;
+    border-radius: 3rem;
+    text-align: center;   
+    margin: 5rem;
+}
+
+.output{
+    border: 5px solid blue;
+    width: 70rem;
+    height: 4rem;
+    padding: 0.6rem;
+    font-size: 2rem;
+    color: orangered;
+    background-color: palegreen;
+}
